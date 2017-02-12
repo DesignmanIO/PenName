@@ -21,9 +21,13 @@ body {
   background-color: #fff;
 }
 
-.dragger {
-  /*height: 230px;
-  display: block;*/
+.ant-upload-drag-container {
+  height: 180px;
+}
+
+.upload-button {
+  text-align: right;
+  margin-top: 15px;
 }
 
 h2 {
